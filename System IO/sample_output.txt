@@ -1,0 +1,20 @@
+Using Unix I/O system calls to read a file by 1 bytes per read
+startUnix read's elapsed time	= 615579
+Using C functions to read a file by 1 bytes per fread
+startC fgetc's elapsed time	= 25969
+Using Unix I/O system calls to read a file by 256 bytes per read
+startUnix read's elapsed time	= 8010
+Using C functions to read a file by 256 bytes per fread
+startC fread's elapsed time	= 2216
+Using Unix I/O system calls to read a file by 1024 bytes per read
+startUnix read's elapsed time	= 2243
+Using C functions to read a file by 1024 bytes per fread
+startC fread's elapsed time	= 2020
+Using Unix I/O system calls to read a file by 2048 bytes per read
+startUnix read's elapsed time	= 1273
+Using C functions to read a file by 2048 bytes per fread
+startC fread's elapsed time	= 1865
+Using Unix I/O system calls to read a file by 2096 bytes per read
+startUnix read's elapsed time	= 1558
+Using C functions to read a file by 2096 bytes per fread
+startC fread's elapsed time	= 2022
